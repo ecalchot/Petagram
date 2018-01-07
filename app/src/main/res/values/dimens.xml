@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_left">16dp</dimen>
+    <dimen name="elevation_bar">4dp</dimen>
+    <dimen name="d10">10dp</dimen>
+    <dimen name="d163">163dp</dimen>
+    <dimen name="d8">8dp</dimen>
+    <dimen name="d320">320dp</dimen>
+    <dimen name="d2">2dp</dimen>
+    <dimen name="textapp_size">25dp</dimen>
+</resources>
